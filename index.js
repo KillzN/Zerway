@@ -17,7 +17,7 @@ say('KILL\nBOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`@ineffable.mvrco`, {
+say(`@JoseFdorante`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});

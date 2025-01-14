@@ -32,7 +32,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} KillzN
-  ${tradutor.texto1[2]} +56983073328
+  ${tradutor.texto1[2]} +584122216538
   ${tradutor.texto1[3]} paypal.me/ineffablexmvrco
 
   ${tradutor.texto1[4]} ${rtime}
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/KillzN",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧",
+        title: "𝙕𝙚𝙧𝙬𝙖𝙮 𝘽𝙤𝙩",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://github.com/KillzN",
